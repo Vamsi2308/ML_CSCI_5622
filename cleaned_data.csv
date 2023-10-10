@@ -1,0 +1,330 @@
+STATION_NUMBER,TRAFFIC_COUNT,TRAFFIC_YEAR_COUNTED,STATUS,STREET_NAME,CHRIS_NUMB,PAVETYPE,FUNCTIONAL_CLASS
+277,14863,2022,Active Station,SOUTH BOULDER RD,6003,Concrete,Principal Arterial
+279,10548,2022,Active Station,SOUTH BOULDER RD,6002,Concrete,Principal Arterial
+281,9973,2022,Active Station,SOUTH BOULDER RD,6002,Concrete,Principal Arterial
+145,1295,2022,Active Station,NEVA RD,3401,Asphalt,Collector
+127,622,2022,Active Station,FAIRWAYS DR,426606,Asphalt,Residential Collector
+469,206,2022,Active Station,CR 83,8300,Gravel,Local
+607,1070,2020,Active Station,KENOSHA RD,3806,Asphalt,Collector
+199,930,2020,Active Station,N 109TH ST,45016,Asphalt,Local
+608,5040,2020,Active Station,ARAPAHOE RD,5402,Asphalt,Minor Arterial
+252,6625,2022,Active Station,N 95TH ST,1906,Asphalt,Minor Arterial
+609,6218,2021,Active Station,EAST COUNTY LINE RD,90101,Asphalt,Minor Arterial
+610,3620,2022,Active Station,CHERRYVALE RD,3906,Asphalt,Collector
+391,2513,2022,Active Station,BUTTE MILL RD,3905,Asphalt,Minor Arterial
+447,380,2022,Active Station,CARIBOU RD,12801,Gravel,Local
+465,2107,2022,Active Station,LINDEN DR,645213,Asphalt,Residential Collector
+5,3136,2022,Active Station,N 95TH ST,1903,Asphalt,Minor Arterial
+59,7083,2022,Active Station,N 95TH ST,1904,Asphalt,Minor Arterial
+611,4165,2021,Active Station,N 75TH ST,3102,Asphalt,Minor Arterial
+477,120,2022,Active Station,BIG OWL RD,8201,Gravel,Local
+476,133,2022,Active Station,CR 82E,8202,Gravel,Local
+474,826,2022,Active Station,CR 84W,8402,Asphalt,Local
+403,125,2022,Active Station,CR 90,9000,Gravel,Local
+405,126,2022,Active Station,RIVERSIDE DR,10301,Asphalt,Local
+404,148,2022,Active Station,RIVERSIDE DR,10300,Asphalt,Local
+406,96,2022,Active Station,RIVERSIDE DR,10301,Asphalt,Local
+453,44,2022,Active Station,PEACEFUL VALLEY RD,9201,Asphalt,Local
+407,356,2022,Active Station,OVERLAND RD,9405,Gravel,Collector
+460,688,2022,Active Station,OVERLAND RD,9404,Asphalt,Collector
+481,84,2022,Active Station,CR 87,8701,Gravel,Local
+491,805,2021,Active Station,JAMES CANYON DR,9403,Asphalt,Collector
+419,83,2022,Active Station,CR 100,10000,Gravel,Local Secondary
+418,1236,2022,Active Station,BRAINARD LAKE DR,10201,Asphalt,Collector
+420,708,2022,Active Station,INDIANA GULCH RD,10615,Asphalt,Minor Arterial
+427,130,2022,Active Station,GOLD HILL RD,5213,Gravel,Collector
+448,155,2022,Active Station,RAINBOW LAKES RD,11600,Gravel,Local Secondary
+436,176,2022,Active Station,COLD SPRING RD,12404,Gravel,Collector
+437,1022,2022,Active Station,RIDGE RD,12804,Asphalt,Collector
+442,123,2022,Active Station,LAKE ELDORA SKI RD,14000,Asphalt,Collector
+441,940,2022,Active Station,ELDORA RD,13002,Asphalt,Collector
+440,440,2022,Active Station,MAGNOLIA DR,13202,Gravel,Collector
+483,199,2022,Active Station,CR 97,9700,Gravel,Local
+484,297,2022,Active Station,RIDGE RD,764901,Gravel,Local
+485,187,2022,Active Station,RIDGE RD,764901,Gravel,Local
+439,558,2022,Active Station,HURRICANE HILL DR,12805,Asphalt,Local
+208,3298,2022,Active Station,N 71ST ST,3303,Asphalt,Minor Arterial
+438,429,2022,Active Station,MAGNOLIA DR,13202,Gravel,Collector
+472,204,2022,Active Station,CR 68,6800,Gravel,Local
+444,292,2022,Active Station,SUNSHINE CANYON DR,5212,Gravel,Collector
+417,218,2022,Active Station,GOLD HILL RD,5213,Gravel,Collector
+426,177,2022,Active Station,GOLD RUN RD,8901,Asphalt,Collector
+425,224,2022,Active Station,FOURMILE CANYON DR,11802,Asphalt,Local
+424,400,2022,Active Station,FOURMILE CANYON DR,11801,Asphalt,Collector
+433,120,2020,Active Station,PRIMOS RD,734003,Gravel,Local
+430,360,2020,Active Station,SUGARLOAF RD,12201,Asphalt,Collector
+446,610,2020,Active Station,SUGARLOAF RD,12201,Asphalt,Collector
+458,830,2020,Active Station,SUGARLOAF RD,12201,Asphalt,Collector
+466,3780,2020,Active Station,SUGARLOAF RD,12201,Asphalt,Collector
+432,664,2022,Active Station,MAGNOLIA DR,13201,Asphalt,Collector
+429,1757,2022,Active Station,SUNSHINE CANYON DR,5211,Asphalt,Collector
+428,1700,2020,Active Station,SUNSHINE CANYON DR,5211,Asphalt,Collector
+443,545,2022,Active Station,SUNSHINE CANYON DR,5211,Asphalt,Collector
+423,1993,2022,Active Station,LEE HILL DR,10612,Asphalt,Collector
+421,1415,2022,Active Station,OLDE STAGE RD,7500,Asphalt,Collector
+422,3442,2022,Active Station,LEE HILL DR,10611,Asphalt,Collector
+413,1746,2022,Active Station,LEE HILL DR,10612,Asphalt,Collector
+449,863,2022,Active Station,DEER TRAIL RD,78407,Asphalt,Residential Collector
+462,722,2022,Active Station,LEE HILL DR,10613,Asphalt,Collector
+414,970,2022,Active Station,LEFTHAND CANYON DR,10614,Asphalt,Minor Arterial
+459,2342,2022,Active Station,FLAGSTAFF RD,5600,Asphalt,Collector
+434,1011,2022,Active Station,FLAGSTAFF RD,7700,Asphalt,Collector
+468,462,2022,Active Station,FLAGSTAFF RD,7700,Asphalt,Collector
+482,204,2022,Active Station,LAKESHORE DR,7700,Asphalt,Local
+480,507,2022,Active Station,CR 77S,7701,Gravel,Collector
+326,3123,2022,Active Station,CHERRYVALE RD,3909,Asphalt,Collector
+365,318,2022,Active Station,MARSHALL RD,5106,Asphalt,Local
+368,310,2022,Active Station,MARSHALL RD,5106,Asphalt,Local
+292,234,2022,Active Station,S 66TH ST,2902,Asphalt,Local
+322,5354,2022,Active Station,S 120TH ST,102,Asphalt,Minor Arterial
+354,1011,2022,Active Station,FLAGG DR,101,Asphalt,Local
+353,850,2022,Active Station,FLAGG DR,101,Asphalt,Local
+278,6900,2022,Active Station,N 76TH ST,2512,Asphalt,Minor Arterial
+265,6722,2022,Active Station,N 76TH ST,2512,Asphalt,Minor Arterial
+264,6358,2022,Active Station,BASELINE RD,5604,Asphalt,Minor Arterial
+266,7262,2022,Active Station,N 75TH ST,2511,Asphalt,Minor Arterial
+268,3698,2022,Active Station,BASELINE RD,5602,Asphalt,Minor Arterial
+319,4706,2022,Active Station,CHERRYVALE RD,3908,Asphalt,Minor Arterial
+348,9270,2022,Active Station,SOUTH BOULDER RD,6001,Concrete,Principal Arterial
+282,3453,2022,Active Station,CHERRYVALE RD,3909,Asphalt,Collector
+272,4713,2022,Active Station,CHERRYVALE RD,3908,Asphalt,Minor Arterial
+273,4986,2022,Active Station,BASELINE RD,5601,Asphalt,Minor Arterial
+271,5468,2022,Active Station,CHERRYVALE RD,3907,Asphalt,Collector
+270,3966,2022,Active Station,BASELINE RD,5602,Asphalt,Minor Arterial
+315,3455,2022,Active Station,CHERRYVALE RD,3906,Asphalt,Collector
+255,7785,2022,Active Station,N 75TH ST,2511,Asphalt,Minor Arterial
+254,310,2022,Active Station,WILLOW CREEK DR,890805,Asphalt,Local Secondary
+253,649,2022,Active Station,PARK LAKE DR,612105,Asphalt,Local
+329,717,2022,Active Station,WICKLOW ST,725009,Asphalt,Local
+382,8180,2020,Active Station,ARAPAHOE RD,5402,Asphalt,Minor Arterial
+306,460,2020,Active Station,N 109TH ST,902,Asphalt,Local
+339,90,2020,Active Station,N 109TH ST,901,Gravel,Local
+341,1720,2020,Active Station,JASPER RD,4201,Asphalt,Minor Arterial
+236,4005,2022,Active Station,ISABELLE RD,5226,Asphalt,Minor Arterial
+238,8661,2022,Active Station,N 95TH ST,1906,Asphalt,Minor Arterial
+239,4250,2020,Active Station,VALMONT RD,5223,Asphalt,Minor Arterial
+237,6180,2020,Active Station,N 95TH ST,1905,Asphalt,Minor Arterial
+300,3340,2020,Active Station,LOOKOUT RD,3804,Asphalt,Minor Arterial
+299,1300,2020,Active Station,LOOKOUT RD,3805,Asphalt,Collector
+384,110,2020,Active Station,N 109TH ST,901,Gravel,Local
+385,5210,2020,Active Station,N 95TH ST,1905,Asphalt,Minor Arterial
+200,3510,2020,Active Station,LOOKOUT RD,3804,Asphalt,Minor Arterial
+201,4040,2020,Active Station,LOOKOUT RD,3803,Asphalt,Minor Arterial
+202,1726,2022,Active Station,N 79TH ST,2507,Asphalt,Collector
+245,10484,2022,Active Station,VALMONT RD,5221,Asphalt,Principal Arterial
+243,4783,2022,Active Station,N 61ST ST,3904,Asphalt,Minor Arterial
+244,7622,2022,Active Station,VALMONT RD,5222,Asphalt,Minor Arterial
+242,5750,2020,Active Station,VALMONT RD,5222,Asphalt,Minor Arterial
+240,6830,2020,Active Station,N 75TH ST,2509,Asphalt,Minor Arterial
+345,4500,2020,Active Station,VALMONT RD,5223,Asphalt,Minor Arterial
+241,7140,2020,Active Station,N 75TH ST,2510,Asphalt,Minor Arterial
+226,4840,2020,Active Station,N 63RD ST,3904,Asphalt,Minor Arterial
+225,5200,2020,Active Station,JAY RD,4404,Asphalt,Minor Arterial
+224,7050,2020,Active Station,N 63RD ST,3903,Asphalt,Minor Arterial
+390,3530,2020,Active Station,SPINE RD,4104,Concrete,Collector
+227,5530,2020,Active Station,JAY RD,4403,Asphalt,Minor Arterial
+229,538,2022,Active Station,N 57TH ST,4301,Asphalt,Collector
+230,8987,2022,Active Station,JAY RD,4403,Asphalt,Minor Arterial
+248,700,2022,Active Station,INDEPENDENCE RD,4602,Asphalt,Collector
+232,288,2022,Active Station,N 47TH ST,5301,Asphalt,Collector
+231,8060,2022,Active Station,JAY RD,4402,Asphalt,Minor Arterial
+150,2540,2020,Active Station,N 51ST ST,5105,Asphalt,Collector
+233,8682,2022,Active Station,JAY RD,4402,Asphalt,Minor Arterial
+223,5130,2020,Active Station,JAY RD,4404,Asphalt,Minor Arterial
+221,6200,2020,Active Station,N 75TH ST,2508,Asphalt,Minor Arterial
+222,7070,2020,Active Station,N 75TH ST,2509,Asphalt,Minor Arterial
+220,1190,2020,Active Station,HEATHERWOOD DR,328445,Asphalt,Residential Collector
+219,1550,2020,Active Station,HEATHERWOOD DR,328445,Asphalt,Residential Collector
+204,5000,2020,Active Station,N 75TH ST,2508,Asphalt,Minor Arterial
+203,5640,2020,Active Station,LOOKOUT RD,3802,Asphalt,Minor Arterial
+340,1190,2020,Active Station,IDYLWILD TRL,308711,Asphalt,Residential Collector
+395,2140,2020,Active Station,N 51ST ST,5105,Asphalt,Collector
+394,240,2020,Active Station,N 51ST ST,5104,Gravel,Local
+198,2451,2022,Active Station,N 79TH ST,2506,Asphalt,Collector
+104,5710,2020,Active Station,N 95TH ST,1904,Asphalt,Minor Arterial
+117,380,2020,Active Station,MONARCH RD,3602,Asphalt,Collector
+106,350,2020,Active Station,MONARCH RD,3602,Asphalt,Collector
+109,3970,2020,Active Station,N 63RD ST,3902,Asphalt,Minor Arterial
+112,240,2020,Active Station,MONARCH RD,3601,Gravel,Local
+159,320,2020,Active Station,N 55TH ST,5104,Gravel,Local
+98,1970,2020,Active Station,NIWOT RD,3403,Asphalt,Collector
+97,2470,2020,Active Station,NIWOT RD,3403,Asphalt,Collector
+95,2810,2020,Active Station,N 63RD ST,3902,Asphalt,Minor Arterial
+96,1610,2020,Active Station,NIWOT RD,3403,Asphalt,Collector
+100,1615,2022,Active Station,NIWOT RD,3402,Asphalt,Collector
+99,191,2022,Active Station,N 49TH ST,5103,Gravel,Local
+92,2636,2022,Active Station,N 79TH ST,2506,Asphalt,Collector
+107,718,2022,Active Station,N 71ST ST,3302,Asphalt,Local
+144,1830,2020,Active Station,NIWOT RD,3403,Asphalt,Collector
+94,4220,2020,Active Station,NIWOT RD,3405,Asphalt,Collector
+399,200,2020,Active Station,N 55TH ST,4302,Asphalt,Local
+91,3660,2020,Active Station,NIWOT RD,3406,Asphalt,Collector
+125,1630,2020,Active Station,N 83RD ST,2505,Asphalt,Collector
+119,2810,2020,Active Station,NIWOT RD,3406,Asphalt,Collector
+90,3744,2021,Active Station,NIWOT RD,3406,Asphalt,Collector
+143,7390,2021,Active Station,N 95TH ST,1904,Asphalt,Minor Arterial
+88,2120,2021,Active Station,NIWOT RD,3407,Asphalt,Collector
+89,6474,2021,Active Station,N 95TH ST,1904,Asphalt,Minor Arterial
+64,509,2022,Active Station,OXFORD RD,2801,Asphalt,Local
+175,7521,2021,Active Station,N 95TH ST,1904,Asphalt,Minor Arterial
+126,628,2022,Active Station,OGALLALA RD,2605,Gravel,Collector
+66,8900,2020,Active Station,AIRPORT RD,2503,Asphalt,Principal Arterial
+67,281,2022,Active Station,OXFORD RD,2604,Gravel,Local
+68,182,2022,Active Station,N 81ST ST,3104,Asphalt,Local
+69,120,2022,Active Station,N 77TH ST,2604,Gravel,Local
+72,121,2022,Active Station,NIMBUS RD,2604,Gravel,Local
+71,2780,2020,Active Station,N 73RD ST,3301,Asphalt,Collector
+386,2914,2022,Active Station,N 75TH ST,3103,Asphalt,Collector
+76,92,2022,Active Station,OXFORD RD,2603,Gravel,Local
+75,2470,2021,Active Station,N 63RD ST,3902,Asphalt,Minor Arterial
+77,2610,2021,Active Station,N 63RD ST,3902,Asphalt,Minor Arterial
+78,422,2022,Active Station,OXFORD RD,2602,Asphalt,Local
+79,191,2022,Active Station,OURAY DR,5102,Gravel,Local
+81,193,2022,Active Station,OXFORD RD,2602,Gravel,Local
+80,228,2021,Active Station,N 41ST ST,5901,Gravel,Local
+82,226,2021,Active Station,N 41ST ST,2601,Gravel,Local
+101,205,2022,Active Station,N 39TH ST,5902,Gravel,Local
+62,113,2022,Active Station,N 55TH ST,5102,Gravel,Local
+461,1041,2022,Active Station,JAMES CANYON DR,9403,Asphalt,Collector
+411,1349,2022,Active Station,LEFTHAND CANYON DR,9402,Asphalt,Minor Arterial
+410,808,2022,Active Station,OLDE STAGE RD,7500,Asphalt,Collector
+409,1135,2022,Active Station,LEFTHAND CANYON DR,9401,Asphalt,Minor Arterial
+83,158,2022,Active Station,NEBO RD,2601,Gravel,Local
+450,631,2022,Active Station,MIDDLE FORK RD,189505,Asphalt,Local
+60,279,2022,Active Station,PLATEAU RD,9400,Asphalt,Local
+408,1716,2022,Active Station,LEFTHAND CANYON DR,9401,Asphalt,Minor Arterial
+195,210,2020,Active Station,N 115TH ST,501,Gravel,Collector
+102,5318,2021,Active Station,EAST COUNTY LINE RD,90101,Asphalt,Minor Arterial
+86,127,2021,Active Station,NIWOT RD,3201,Asphalt,Local
+84,5246,2021,Active Station,EAST COUNTY LINE RD,90101,Asphalt,Minor Arterial
+87,2207,2021,Active Station,NIWOT RD,3407,Asphalt,Collector
+167,1388,2021,Active Station,OXFORD RD,2802,Asphalt,Local
+166,305,2021,Active Station,N 115TH ST,305,Asphalt,Local
+63,2441,2021,Active Station,N 119TH ST,304,Asphalt,Local
+155,916,2021,Active Station,OXFORD RD,2802,Asphalt,Local
+6,125,2021,Active Station,PIKE RD,2608,Gravel,Local
+128,344,2021,Active Station,PROSPECT RD,2607,Gravel,Local
+140,8614,2022,Active Station,EAST COUNTY LINE RD,90104,Asphalt,Minor Arterial
+3,4318,2021,Active Station,EAST COUNTY LINE RD,90104,Asphalt,Minor Arterial
+46,4081,2022,Active Station,NELSON RD,2002,Asphalt,Minor Arterial
+14,3090,2021,Active Station,HYGIENE RD,1002,Asphalt,Collector
+15,4394,2021,Active Station,N 75TH ST,3102,Asphalt,Minor Arterial
+16,2955,2021,Active Station,HYGIENE RD,1002,Asphalt,Collector
+17,5146,2021,Active Station,N 75TH ST,3102,Asphalt,Minor Arterial
+18,970,2021,Active Station,HYGIENE RD,1001,Asphalt,Collector
+27,1092,2021,Active Station,SAINT VRAIN RD,1602,Asphalt,Collector
+141,3836,2022,Active Station,N 75TH ST,3102,Asphalt,Minor Arterial
+8,1987,2021,Active Station,N 75TH ST,3101,Asphalt,Collector
+7,482,2021,Active Station,N 87TH ST,2301,Asphalt,Local
+154,66,2021,Active Station,VERMILLION RD,601,Gravel,Local
+181,193,2021,Active Station,VERMILLION RD,602,Gravel,Local
+123,250,2021,Active Station,VERMILLION RD,603,Asphalt,Local
+180,183,2021,Active Station,VERMILLION RD,604,Gravel,Local
+149,1794,2021,Active Station,WOODLAND RD,401,Asphalt,Collector
+2,2094,2021,Active Station,N 83RD ST,2300,Asphalt,Collector
+179,220,2021,Active Station,N 87TH ST,2301,Asphalt,Local
+1,792,2021,Active Station,WOODLAND RD,402,Asphalt,Collector
+160,2086,2021,Active Station,N 95TH ST,1903,Asphalt,Minor Arterial
+153,278,2021,Active Station,YELLOWSTONE RD,201,Gravel,Local
+157,1709,2021,Active Station,N 83RD ST,2300,Asphalt,Collector
+193,660,2021,Active Station,YELLOWSTONE RD,202,Asphalt,Local
+186,146,2021,Active Station,YELLOWSTONE RD,203,Gravel,Local
+182,165,2021,Active Station,N 115TH ST,302,Asphalt,Collector
+124,122,2021,Active Station,WASATCH RD,204,Gravel,Local
+183,210,2021,Active Station,N 115TH ST,301,Gravel,Collector
+185,251,2021,Active Station,NORTH COUNTY LINE RD,90202,Asphalt,Local
+184,424,2021,Active Station,NORTH COUNTY LINE RD,90202,Gravel,Local
+146,3173,2021,Active Station,EAST COUNTY LINE RD,90104,Asphalt,Minor Arterial
+54,170,2021,Active Station,N 39TH ST,5901,Gravel,Local
+53,163,2021,Active Station,N 51ST ST,5101,Gravel,Local
+52,99,2021,Active Station,N 55TH ST,5102,Gravel,Local
+51,2147,2021,Active Station,NELSON RD,2001,Asphalt,Minor Arterial
+50,2261,2021,Active Station,N 63RD ST,3902,Asphalt,Minor Arterial
+49,3890,2021,Active Station,NELSON RD,2002,Asphalt,Minor Arterial
+47,957,2021,Active Station,N 65TH ST,3901,Asphalt,Collector
+48,4072,2022,Active Station,NELSON RD,2002,Asphalt,Minor Arterial
+28,556,2022,Active Station,N 65TH ST,3901,Asphalt,Collector
+498,722,2021,Active Station,SAINT VRAIN RD,1601,Asphalt,Local
+29,519,2022,Active Station,SAINT VRAIN RD,1601,Asphalt,Local
+30,545,2021,Active Station,SAINT VRAIN RD,1601,Asphalt,Local
+20,740,2021,Active Station,HYGIENE RD,1001,Asphalt,Collector
+129,96,2021,Active Station,N 59TH ST,4103,Gravel,Local
+19,821,2021,Active Station,HYGIENE RD,1001,Asphalt,Collector
+138,547,2021,Active Station,N 61ST ST,4102,Gravel,Local
+122,178,2022,Active Station,N 63RD ST,4102,Gravel,Local
+131,90,2021,Active Station,N 63RD ST,4102,Gravel,Local
+189,180,2013,Active Station,N 51ST ST,4902,Concrete,Local
+10,65,2022,Active Station,HIGHLAND DR,4901,Gravel,Local
+457,355,2022,Active Station,RED GULCH RD,480308,Asphalt,Local
+495,1855,2022,Active Station,PALO PKWY,602731,Asphalt,Residential Collector
+500,8533,2022,Active Station,JAY RD,4402,Asphalt,Minor Arterial
+311,11089,2022,Active Station,VALMONT RD,5221,Asphalt,Principal Arterial
+269,358,2022,Active Station,WESTVIEW DR,3700,Asphalt,Residential Collector
+256,635,2022,Active Station,WESTVIEW DR,3700,Asphalt,Residential Collector
+379,801,2022,Active Station,EMPIRE DR,6200,Asphalt,Local
+61,276,2022,Active Station,PIKE RD,2402,Gravel,Local
+137,830,2020,Active Station,MONARCH RD,3601,Asphalt,Collector
+431,30,2022,Active Station,CR 120J,12000,Gravel,Jeep
+235,4076,2022,Active Station,ISABELLE RD,5226,Asphalt,Minor Arterial
+234,9596,2022,Active Station,ISABELLE RD,5227,Asphalt,Minor Arterial
+383,580,2020,Active Station,FLATIRON DR,102603,Asphalt,Residential Collector
+192,467,2021,Active Station,OXFORD RD,2801,Asphalt,Local
+168,1805,2021,Active Station,QUAIL RD,2006,Asphalt,Local
+267,8727,2022,Active Station,BASELINE RD,5603,Asphalt,Minor Arterial
+502,34,2021,Active Station,NORTH COUNTY LINE RD,90201,Gravel,Local
+373,768,2022,Active Station,PARAGON DR,607603,Asphalt,Residential Collector
+361,609,2022,Active Station,BARCELONA DR,758601,Asphalt,Residential Collector
+191,922,2021,Active Station,SAINT VRAIN RD,1602,Asphalt,Collector
+190,389,2021,Active Station,N 53RD ST,4700,Asphalt,Local
+455,205,2022,Active Station,APPLE VALLEY RD,7102,Asphalt,Local
+479,1139,2022,Active Station,BLUE MOUNTAIN RD,7101,Asphalt,Local
+400,265,2022,Active Station,LONGMONT DAM RD,80,Gravel,Local
+402,558,2022,Active Station,OLD SAINT VRAIN RD,8400,Asphalt,Local
+456,158,2022,Active Station,OLD SAINT VRAIN RD,8400,Asphalt,Local
+164,101,2022,Active Station,CRANE HOLLOW DR,3500,Gravel,Local
+503,1021,2022,Active Station,GOLF CLUB DR,580801,Asphalt,Residential Collector
+130,323,2022,Active Station,PLATEAU RD,3104,Asphalt,Local
+152,1830,2020,Active Station,N 83RD ST,2505,Asphalt,Collector
+105,7299,2022,Active Station,N 95TH ST,1905,Asphalt,Minor Arterial
+93,4890,2020,Active Station,NIWOT RD,3405,Asphalt,Collector
+389,2660,2020,Active Station,CLUBHOUSE RD,267004,Asphalt,Residential Collector
+388,640,2020,Active Station,OLD POST RD,308717,Asphalt,Local
+499,206,2022,Active Station,NORTH BROADWAY,6500,Gravel,Local
+302,354,2022,Active Station,N 26TH ST,6100,Gravel,Local
+304,1790,2020,Active Station,TWIN LAKES RD,829411,Asphalt,Residential Collector
+280,302,2022,Active Station,S 68TH ST,2901,Asphalt,Local
+473,168,2022,Active Station,POORMAN RD,7900,Gravel,Local
+488,832,2022,Active Station,FOURMILE CANYON DR,11801,Asphalt,Collector
+487,168,2022,Active Station,LOGAN MILL RD,11800,Gravel,Local
+435,380,2020,Active Station,SUGARLOAF RD,12202,Gravel,Collector
+467,1405,2022,Active Station,ELDORA RD,45016,Asphalt,Collector
+494,94,2022,Active Station,CR 99,9900,Gravel,Local Secondary
+489,55,2022,Active Station,SAWMILL RD,9500,Gravel,Local
+490,108,2022,Active Station,GOLD HILL RD,5213,Gravel,Collector
+445,108,2022,Active Station,GOLD RUN RD,8901,Gravel,Collector
+415,154,2022,Active Station,LICK SKILLET RD,8902,Gravel,Local
+416,855,2022,Active Station,LEFTHAND CANYON DR,10615,Asphalt,Minor Arterial
+463,954,2022,Active Station,LEFTHAND CANYON DR,10614,Asphalt,Minor Arterial
+412,550,2022,Active Station,LEFTHAND CANYON DR,8100,Asphalt,Minor Arterial
+478,159,2022,Active Station,GEER CANYON DR,7300,Asphalt,Local Secondary
+492,74,2022,Active Station,BEAVER RESERVOIR RD,9600,Gravel,Local
+493,100,2022,Active Station,RIVERSIDE DR,10300,Asphalt,Local
+4,574,2021,Active Station,N 115TH ST,302,Asphalt,Collector
+602,2214,2021,Active Station,NELSON RD,2001,Asphalt,Minor Arterial
+603,1567,2022,Active Station,LEFTHAND CANYON DR,9402,Asphalt,Minor Arterial
+605,974,2022,Active Station,FOURMILE CANYON DR,11801,Asphalt,Collector
+604,7020,2020,Active Station,N 75TH ST,2510,Asphalt,Minor Arterial
+338,1010,2020,Active Station,CARTER TRL,308703,Asphalt,Residential Collector
+486,529,2022,Active Station,FOURTH OF JULY RD,11100,Gravel,Local
+606,725,2021,Active Station,PLATEAU RD,2606,Asphalt,Collector
+901,150,2018,Active Station,Longmont-to-Boulder Trail,3903,nan,nan
+902,70,2018,Active Station,Longmont-to-Boulder Trail,2506,nan,nan
+903,120,2018,Active Station,Longmont-to-Boulder Trail,2505,nan,nan
+904,90,2018,Active Station,Longmont-to-Boulder Trail,45016,Asphalt,nan
+908,240,2018,Active Station,Boulder Creek Path,45016,Asphalt,nan
+475,156,2022,Active Station,CABIN CREEK RD,8200,Gravel,Local
+506,600,2020,Active Station,WAGONWHEEL GAP RD,45016,Asphalt,Residential Collector
+507,562,2022,Active Station,CAMP EDEN RD,413603,Asphalt,Residential Collector
+508,646,2022,Active Station,COPPERDALE LN,171101,Asphalt,Residential Collector
+509,247,2022,Active Station,CR 126,12601,Gravel,Local
+510,5279,2021,Active Station,EAST COUNTY LINE RD,90101,Asphalt,Minor Arterial
