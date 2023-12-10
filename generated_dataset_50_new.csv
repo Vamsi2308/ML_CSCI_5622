@@ -1,0 +1,51 @@
+Age,Annual_Income,Credit_History,Monthly_Spending,Card_Eligibility,Products_Available
+56,53483,Excellent,1584,Yes,"Stationary, Fitness, Home Decor"
+46,78555,Poor,963,Yes,"Stationary, Stationary"
+32,47159,Average,2890,No,"Fitness, Electronics, Electronics"
+60,110077,Average,663,No,"Stationary, Fitness, Books"
+25,65920,Excellent,1120,No,"Home Decor, Books, Clothing"
+38,97121,Average,195,No,"Fitness, Books, Home Decor"
+56,99479,Excellent,2023,Yes,"Home Decor, Electronics, Electronics"
+36,119475,Good,1857,No,"Clothing, Electronics, Books"
+40,49457,Average,2632,Yes,Electronics
+28,96557,Good,2378,No,"Fitness, Fitness"
+28,107189,Excellent,2896,Yes,"Clothing, Books"
+41,108953,Poor,1778,No,"Home Decor, Clothing, Electronics"
+53,82995,Average,640,No,Clothing
+57,70757,Excellent,1159,No,Stationary
+41,39692,Poor,2672,No,Fitness
+20,75758,Poor,1283,Yes,"Fitness, Electronics, Electronics"
+39,102409,Good,1822,No,"Books, Books, Home Decor"
+19,101211,Excellent,1919,Yes,"Electronics, Home Decor"
+41,95697,Poor,2725,Yes,"Electronics, Home Decor, Stationary"
+61,67065,Average,2829,Yes,"Books, Stationary"
+47,62606,Average,2704,Yes,Books
+55,41534,Good,1697,No,Fitness
+19,70397,Poor,2793,Yes,"Stationary, Clothing"
+38,31016,Excellent,895,Yes,"Stationary, Books"
+50,119789,Average,1151,Yes,Electronics
+29,85591,Poor,1743,No,Home Decor
+39,119812,Poor,1463,No,Stationary
+61,53247,Good,2081,No,Home Decor
+42,54300,Average,1454,No,"Books, Electronics, Electronics"
+44,104065,Average,1763,Yes,"Books, Stationary, Fitness"
+59,112798,Excellent,1629,Yes,"Stationary, Stationary"
+45,39268,Average,2138,No,"Stationary, Fitness"
+33,116807,Excellent,1596,Yes,"Stationary, Books, Books"
+32,42185,Average,2337,Yes,"Fitness, Stationary"
+64,93704,Good,1508,Yes,Home Decor
+61,116779,Average,1500,No,"Electronics, Fitness, Home Decor"
+20,69099,Excellent,1406,No,Books
+54,38571,Excellent,2780,Yes,"Electronics, Electronics, Home Decor"
+24,68044,Good,2775,No,"Fitness, Stationary"
+38,81214,Average,1072,No,Stationary
+26,91228,Average,1868,No,"Home Decor, Electronics, Fitness"
+56,78984,Good,1382,No,Electronics
+35,70774,Average,809,No,"Fitness, Fitness"
+21,32568,Average,1579,Yes,"Home Decor, Electronics, Home Decor"
+42,92592,Excellent,1534,No,"Fitness, Fitness, Fitness"
+31,97563,Average,748,Yes,Books
+26,32695,Average,417,Yes,"Electronics, Clothing"
+43,78190,Good,1357,No,"Stationary, Clothing, Books"
+19,35258,Good,783,Yes,"Clothing, Fitness"
+37,117538,Poor,763,Yes,"Fitness, Clothing"
